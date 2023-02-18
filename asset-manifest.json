@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "https://shashicmrcet.github.io/csb-heu9o0/static/css/main.a4b616d5.chunk.css",
+    "main.js": "https://shashicmrcet.github.io/csb-heu9o0/static/js/main.061f2dcc.chunk.js",
+    "main.js.map": "https://shashicmrcet.github.io/csb-heu9o0/static/js/main.061f2dcc.chunk.js.map",
+    "runtime-main.js": "https://shashicmrcet.github.io/csb-heu9o0/static/js/runtime-main.aa78f297.js",
+    "runtime-main.js.map": "https://shashicmrcet.github.io/csb-heu9o0/static/js/runtime-main.aa78f297.js.map",
+    "static/js/2.b81b3121.chunk.js": "https://shashicmrcet.github.io/csb-heu9o0/static/js/2.b81b3121.chunk.js",
+    "static/js/2.b81b3121.chunk.js.map": "https://shashicmrcet.github.io/csb-heu9o0/static/js/2.b81b3121.chunk.js.map",
+    "index.html": "https://shashicmrcet.github.io/csb-heu9o0/index.html",
+    "static/css/main.a4b616d5.chunk.css.map": "https://shashicmrcet.github.io/csb-heu9o0/static/css/main.a4b616d5.chunk.css.map",
+    "static/js/2.b81b3121.chunk.js.LICENSE.txt": "https://shashicmrcet.github.io/csb-heu9o0/static/js/2.b81b3121.chunk.js.LICENSE.txt",
+    "static/media/1.22cc2d68.jpg": "https://shashicmrcet.github.io/csb-heu9o0/static/media/1.22cc2d68.jpg",
+    "static/media/12.f01fb061.jpg": "https://shashicmrcet.github.io/csb-heu9o0/static/media/12.f01fb061.jpg",
+    "static/media/4.5487a01f.jpg": "https://shashicmrcet.github.io/csb-heu9o0/static/media/4.5487a01f.jpg",
+    "static/media/5.68a71604.jpg": "https://shashicmrcet.github.io/csb-heu9o0/static/media/5.68a71604.jpg",
+    "static/media/6.6c9dc4e6.jpg": "https://shashicmrcet.github.io/csb-heu9o0/static/media/6.6c9dc4e6.jpg",
+    "static/media/7.3d6c78d9.jpg": "https://shashicmrcet.github.io/csb-heu9o0/static/media/7.3d6c78d9.jpg",
+    "static/media/8.c4124ff4.jpg": "https://shashicmrcet.github.io/csb-heu9o0/static/media/8.c4124ff4.jpg",
+    "static/media/9.d23359a4.jpg": "https://shashicmrcet.github.io/csb-heu9o0/static/media/9.d23359a4.jpg",
+    "static/media/about.6bb9b395.jpg": "https://shashicmrcet.github.io/csb-heu9o0/static/media/about.6bb9b395.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aa78f297.js",
+    "static/js/2.b81b3121.chunk.js",
+    "static/css/main.a4b616d5.chunk.css",
+    "static/js/main.061f2dcc.chunk.js"
+  ]
+}
